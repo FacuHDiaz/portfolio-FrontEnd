@@ -8,13 +8,13 @@ body {
     black 0%,
     #272d2d 100%
   );
-  color: #b3ffb3;
+  color: #fff;
   font-family: Manrope;
   padding-bottom: 0%;
 }
 
 .nombre {
-  color :#38a3a5;
+  color :#fff;
   font-family: Manrope;
   font-size: 40px;
 }
@@ -30,11 +30,11 @@ body {
   text-decoration: none;
 }
 footer {
-  margin-top: 20%;
+  margin-top: 30%;
 }
 i {
   font-size: 50px;
-  color: #b3ffb3;
+  color: #2b59c3;
   margin-left: 50px;
   margin-right: 50px;
 }
