@@ -1,0 +1,41 @@
+/* {
+  background-color: #272D2D; 
+  color:#fff;
+}*/
+body {
+  background: linear-gradient(
+    45deg,
+    black 0%,
+    #272d2d 100%
+  );
+  color: #b3ffb3;
+  font-family: Manrope;
+  padding-bottom: 0%;
+}
+
+.nombre {
+  color :#38a3a5;
+  font-family: Manrope;
+  font-size: 40px;
+}
+
+.navegacion {
+  border-bottom: #a69cac;
+}
+.navegacion li{
+    display: inline-flex;
+}
+.link {
+  color: #ffff;
+  text-decoration: none;
+}
+footer {
+  margin-top: 20%;
+}
+i {
+  font-size: 50px;
+  color: #b3ffb3;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+

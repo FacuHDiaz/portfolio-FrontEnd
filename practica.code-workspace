@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../pycode/pratica1"
+		},
+		{
+			"path": "../../../../pycode/catalogo_peliculas"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practica"
+	}
+}
